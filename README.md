@@ -26,4 +26,5 @@
   ## License
   ![License](https://img.shields.io/badge/License-MIT-green)
 
+  [Screencast](https://app.screencastify.com/v3/watch/LvsOYnNDnHHxop2eKfmk)
 
